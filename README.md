@@ -34,5 +34,3 @@
 1. **Itertools в Python** — https://habr.com/ru/companies/otus/articles/529356
 2. **Функция делителей** — https://ru.wikipedia.org/wiki
 3. **Официальная документация Python** —  https://docs.python.org/3/
-4. **Dict comprehensions** — https://docs.python.org/3/tutorial/datastructures.html#dictionaries
-5. **малоизвестных возможностей стандартной библиотеки Python** —  https://proglib.io/p/7-maloizvestnyh-vozmozhnostey-standartnoy-biblioteki-python-2024-08-27
